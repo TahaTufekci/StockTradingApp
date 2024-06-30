@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\repository\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\repository\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\repository\\stocklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\repository\\stocklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\models\\userstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\models\\userstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\models\\stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\models\\stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\models\\mainscreeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\models\\mainscreeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\interfaces\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\interfaces\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\interfaces\\imainscreenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\interfaces\\imainscreenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\controllers\\stocklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\controllers\\stocklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\controllers\\mainscreencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\controllers\\mainscreencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\controllers\\buysellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\controllers\\buysellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|c:\\users\\taha\\source\\repos\\stocktradingapp\\stocktradingapp\\stocktradingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83288C3B-9EF9-41D9-8697-CBBBE70D1134}|StockTradingApp\\StockTradingApp.csproj|solutionrelative:stocktradingapp\\stocktradingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\Stock.cs",
+              "RelativeToolTip": "StockTradingApp\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:16:27.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockList.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\StockList.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Models\\StockList.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\StockList.cs",
+              "RelativeToolTip": "StockTradingApp\\Models\\StockList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:36:25.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Interfaces\\IPortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Interfaces\\IPortfolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:36:16.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMainScreenService.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IMainScreenService.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Interfaces\\IMainScreenService.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IMainScreenService.cs",
+              "RelativeToolTip": "StockTradingApp\\Interfaces\\IMainScreenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:36:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainScreenController.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\MainScreenController.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Controllers\\MainScreenController.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\MainScreenController.cs",
+              "RelativeToolTip": "StockTradingApp\\Controllers\\MainScreenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:35:43.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StockTradingApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\appsettings.json",
+              "RelativeToolTip": "StockTradingApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T17:48:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StockTradingApp.csproj",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\StockTradingApp.csproj",
+              "RelativeDocumentMoniker": "StockTradingApp\\StockTradingApp.csproj",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\StockTradingApp.csproj",
+              "RelativeToolTip": "StockTradingApp\\StockTradingApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T17:28:37.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserStock.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\UserStock.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Models\\UserStock.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\UserStock.cs",
+              "RelativeToolTip": "StockTradingApp\\Models\\UserStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:31:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Watchlist.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\Watchlist.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Models\\Watchlist.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\Watchlist.cs",
+              "RelativeToolTip": "StockTradingApp\\Models\\Watchlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:08:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "StockTradingApp\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:19:20.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:20:46.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\PortfolioRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Repository\\PortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\PortfolioRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Repository\\PortfolioRepository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:20:43.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainScreenInfo.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\MainScreenInfo.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Models\\MainScreenInfo.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\MainScreenInfo.cs",
+              "RelativeToolTip": "StockTradingApp\\Models\\MainScreenInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:08:45.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:02:36.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:55:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "StockTradingApp\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:47:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StocklistController.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\StocklistController.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Controllers\\StocklistController.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\StocklistController.cs",
+              "RelativeToolTip": "StockTradingApp\\Controllers\\StocklistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:44:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Controllers\\WatchlistController.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "StockTradingApp\\Controllers\\WatchlistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:46:34.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuySellController.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\BuySellController.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Controllers\\BuySellController.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\BuySellController.cs",
+              "RelativeToolTip": "StockTradingApp\\Controllers\\BuySellController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:41:48.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\WatchlistRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Repository\\WatchlistRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\WatchlistRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Repository\\WatchlistRepository.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:20:46.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWatchlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IWatchlistRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Interfaces\\IWatchlistRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Interfaces\\IWatchlistRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Interfaces\\IWatchlistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:25:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StockTradingApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:39:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\StockListRepository.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Repository\\StockListRepository.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Repository\\StockListRepository.cs",
+              "RelativeToolTip": "StockTradingApp\\Repository\\StockListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:22:11.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Program.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Program.cs",
+              "RelativeToolTip": "StockTradingApp\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:12:00.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Seed.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Seed.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Seed.cs",
+              "RelativeToolTip": "StockTradingApp\\Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:11:59.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\Portfolio.cs",
+              "RelativeToolTip": "StockTradingApp\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:30:05.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StockTradingApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\TAHA\\source\\repos\\StockTradingApp\\StockTradingApp\\Models\\User.cs",
+              "RelativeToolTip": "StockTradingApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:25:17.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

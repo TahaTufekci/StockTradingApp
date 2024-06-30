@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hg5mEerfrblG99pDqpEwYuEldVZI//VjyPyTllttcek=",
+  "Source": "StockTradingApp",
+  "BasePath": "_content/StockTradingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
